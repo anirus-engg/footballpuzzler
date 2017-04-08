@@ -1,0 +1,2 @@
+# footballpuzzler
+Football Puzzler is a guess the football player from a set of scrambled image. You score +3 points every time you guess the football player right in the first guess, +2 points when you guess it right in the second guess, +1 point when you guess it right in the third guess. No points are awarded for four or more guesses. Your aim is to score maximum points in less time as possible.
